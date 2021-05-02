@@ -1,13 +1,14 @@
 flags: {}
 extra-package-dbs: []
 packages:
-- '.'
+  - "."
 extra-deps:
-- docopt-0.7.0.4
-- hierarchy-0.3.1
-- pipes-files-0.1.1
-- posix-paths-0.2.1.0
-- aeson-0.11.0.0
-- fail-4.9.0.0
-- semigroups-0.16.2.2
+  - docopt-0.7.0.4
+  - hierarchy-0.3.1
+  - pipes-files-0.1.1
+  - posix-paths-0.2.1.0
+  - aeson-0.11.0.0
+  - fail-4.9.0.0
+  - semigroups-0.16.2.2
+  - tagged-0.8.6.1@sha256:5ddf1e324c3cd644f097a48bf490f0bedf467f723fd240afb3ab3b750577f8e7
 resolver: lts-5.2
